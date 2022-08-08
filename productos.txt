@@ -1,0 +1,7 @@
+124019240,pan,20
+01924012,Carne,20
+2352398,Arroz,53
+none,lechona,10
+none,sopa,35
+543543564,afasd,45
+543543564,afasd,45
